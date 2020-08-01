@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/joelhill/Documents/ComIT/git_lab/git_lab.csproj": {}
+  },
+  "projects": {
+    "/home/joelhill/Documents/ComIT/git_lab/git_lab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/joelhill/Documents/ComIT/git_lab/git_lab.csproj",
+        "projectName": "git_lab",
+        "projectPath": "/home/joelhill/Documents/ComIT/git_lab/git_lab.csproj",
+        "packagesPath": "/home/joelhill/.nuget/packages/",
+        "outputPath": "/home/joelhill/Documents/ComIT/git_lab/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/joelhill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
